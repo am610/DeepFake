@@ -1,0 +1,52 @@
+@Ayan Mitra, 2020.
+ayanmitra375@gmail.com
+
+
+To run the script "Skyhawk.sh" locally, 
+
+A) ** DOWNLOADS : The Trained Model file needs to be downloaded from : 
+
+https://drive.google.com/file/d/1T8hj8ww2xmW1rzDt_rJfo1l069md3GiY/view?usp=sharing
+
+Set the path of the Model file in the Skyhawk.py
+
+B) ** DEPENDENCY REQUIREMENTS :
+
+ 1) OPENCV2
+   Installation Guide : [Anaconda : https://anaconda.org/conda-forge/opencv] [Pip : https://pypi.org/project/opencv-python/]
+
+
+ 2) DLAB
+   Installation Guide : [Anaconda : https://anaconda.org/menpo/dlib]  [Pip : https://pypi.org/project/dlib/]
+
+
+ 3) TENSORFLOW
+   Installation Guide : [https://www.tensorflow.org/install]
+
+
+ 4) SCI-KIT
+   Installation Guide : [https://scikit-learn.org/stable/install.html] [Pip : https://pypi.org/project/scikit-learn/]
+
+ 5) Apart from these major library requirements, it is assumed that the basic requirements are satisfied like 'NUMPY', 'MATPLOTLIB' etc. If not, these needs to be installed as well. 
+
+C) ** Execution : 
+
+  If all the above dependencies are satisfied, then
+
+   From terminal give permission to the script and then executing it by typing : 
+
+   chmod ug+x Skyhawk.sh
+
+   ./Skyhawk.sh
+
+
+  You will be prompted to enter the input video file's path. Enter the correct path and return. 
+
+
+  A screen prompt will show if the video is Fake or Real. 
+
+
+
+   
+
+ 
