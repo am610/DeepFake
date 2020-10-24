@@ -56,8 +56,8 @@ We see that there is a tendency for the validation set to overfit as can be seen
 
 <br><br>
 ## Files
-[Deep Fakes Detection Notebook](https://github.com/am610/DeepFake/blob/main/Sentinel.ipynb)
-
+[Deep Network for Deep Fakes Detection Notebook](https://github.com/am610/DeepFake/blob/main/Sentinel.ipynb)
+[To Check a Video for Fake/Real Based on the Model from above](https://github.com/am610/DeepFake/blob/main/Sentinel_II_Video_Check.ipynb)
 <br><br>
 ![Alt text](Screen.png?raw=true "Title")
 
