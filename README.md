@@ -36,10 +36,10 @@ Accuracy   : 99.7\%(<a href="https://www.codecogs.com/eqnedit.php?latex=\sim&spa
 ## Performance
 
  Accuracy \% = 98.5 (<a href="https://www.codecogs.com/eqnedit.php?latex=\sim&space;2.96\sigma" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sim&space;2.96\sigma" title="\sim 2.96\sigma" /></a>)<br>
-True positive = 11157 , (51.87)\% <br>
-False positive = 192 , (0.89)\% <br>
-False negative = 130 , (0.60)\% <br>
-True negative = 10031 , (46.63)\%
+True positive = 11157 , 51.87\% <br>
+False positive = 192 , 0.89\% <br>
+False negative = 130 , 0.60\% <br>
+True negative = 10031 , 46.63\%
 
 
 
