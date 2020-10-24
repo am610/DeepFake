@@ -54,7 +54,7 @@ The accuracy and Loss of the train and test sets are plotted below.
 <br>
 We see that there is a tendency for the validation set to overfit as can be seen from the Loss function plot. We speculate further future improvements on the model can be made, by fine tunning the hyperparameters. This includes attention to reducing the overfitting tendency (though this is not highly pronounced, but can be improved). Adding suitable 'dropout' layer could assist in this condition, aditionally the learning rate of the 'Adam' optimizer can be further scrutinized by adding decay parameter.  
 
-
+<br><br>
 ![Alt text](Screen.png?raw=true "Title")
 
 A screen shot of the notebook showing the tested video, and its verdict which in this case is Fake.
