@@ -1,3 +1,0 @@
-We have created a python [notebook](https://github.com/am610/DeepFake/blob/main/Sentinel_II_Video_Check.ipynb), which can be run from online cloud platform like Google Colab. The trained model is loaded in the notebook and users can input videos in the cell with proper links. To check from the already present pool of videos we have, a google drive link of the correspondng folder in provided. User should copy the folder to their own google drive and edit the path in the notebook to be able to load videos from the mounted google drive. On succesfull loading of a video, which is specified in the cell with variable 'path = ...*mp4', executing the successive cells should automatically print out the result of the fraud check of the video as either 'Real' or 'Fake'.
-
-
