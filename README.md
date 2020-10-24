@@ -56,3 +56,5 @@ We see that there is a tendency for the validation set to overfit as can be seen
 
 
 ![Alt text](Screen.png?raw=true "Title")
+
+A screen shot of the notebook showing the tested video, and its verdict which in this case is Fake.
