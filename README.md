@@ -29,13 +29,13 @@ Pooling      : Global Average Pooling<br>
 Acitvation : Softmax<br>
 Optimizer : Adam<br>
 Batch Size : 80 <br>
-Accuracy   : 99.7\%(\sim 3 \sigma) for Training to terminate 
-<a href="https://www.codecogs.com/eqnedit.php?latex=3\sigma" target="_blank"><img src="https://latex.codecogs.com/gif.latex?3\sigma" title="3\sigma" /></a>
-- <img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
+Accuracy   : 99.7\%(<a href="https://www.codecogs.com/eqnedit.php?latex=\sim&space;3\sigma" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sim&space;3\sigma" title="\sim 3\sigma" /></a>) for Training to terminate 
+
+
 
 ## Performance
 
- Accuracy \% = 98.5 ($$\sim$$ 2.96\sigma)<br>
+ Accuracy \% = 98.5 (<a href="https://www.codecogs.com/eqnedit.php?latex=\sim&space;2.96\sigma" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sim&space;2.96\sigma" title="\sim 2.96\sigma" /></a>)<br>
 True positive = 11157 , (51.87)\% <br>
 False positive = 192 , (0.89)\% <br>
 False negative = 130 , (0.60)\% <br>
