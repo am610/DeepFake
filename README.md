@@ -30,6 +30,8 @@ Acitvation : Softmax<br>
 Optimizer : Adam<br>
 Batch Size : 80 <br>
 Accuracy   : 99.7\%(\sim 3 \sigma) for Training to terminate 
+<a href="https://www.codecogs.com/eqnedit.php?latex=3\sigma" target="_blank"><img src="https://latex.codecogs.com/gif.latex?3\sigma" title="3\sigma" /></a>
+- <img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
 
 ## Performance
 
