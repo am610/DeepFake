@@ -1,1 +1,0 @@
-We have created a python [notebook](https://github.com/am610/DeepFake/blob/main/Sentinel_II_Video_Check.ipynb), which can be run from online cloud platform like Google Colab. 
