@@ -52,4 +52,4 @@ The accuracy and Loss of the train and test sets are plotted below.
 <img src="loss2.png" width="1000" />
 
 <br>
-We see that there is a tendency for the validation set to ovefit as can be seen from the Loss function plot. We speculate further future improvement on the model can be made, by fine tunning the hyperparameters. This includes attention to reducing the overfitting tendency (though this is not highly pronounced, but can be improved). Adding suitable 'dropout' layer could assist in this condition, aditionally the learning rate of the 'Adam' optimizer can be further scrutinized by adding decay parameter.  
+We see that there is a tendency for the validation set to overfit as can be seen from the Loss function plot. We speculate further future improvements on the model can be made, by fine tunning the hyperparameters. This includes attention to reducing the overfitting tendency (though this is not highly pronounced, but can be improved). Adding suitable 'dropout' layer could assist in this condition, aditionally the learning rate of the 'Adam' optimizer can be further scrutinized by adding decay parameter.  
